@@ -17,14 +17,14 @@ Comprehensive SQL queries embedded within Python
 Data visualizations for better business understanding
 
 🧰 Technologies Used
-Python 🐍
+1.Python 
 
-MySQL 🛢️
+2.MySQL 
 
-Pandas 📊
+3.Pandas
 
-Matplotlib 📈
+4.Matplotlib 
 
-Seaborn 🎨
+5.Seaborn 
 
-Jupyter Notebook
+6.Jupyter Notebook
